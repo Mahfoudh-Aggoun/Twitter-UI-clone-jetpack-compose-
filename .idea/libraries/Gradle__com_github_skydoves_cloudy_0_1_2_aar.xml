@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.skydoves:cloudy:0.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/093257d722a9000463028c7b7334b3b9/transformed/cloudy-0.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/093257d722a9000463028c7b7334b3b9/transformed/cloudy-0.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/cloudy/0.1.2/58e20675c4632cec6cd5b37d0842ab1516bf3cba/cloudy-0.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/cloudy/0.1.2/e06437c55124a06970fb5d0419032891687cba43/cloudy-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
