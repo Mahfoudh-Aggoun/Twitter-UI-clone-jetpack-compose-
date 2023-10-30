@@ -43,7 +43,7 @@ This project is a living document of my journey with Jetpack Compose, and I'm co
 
 To get this project up and running on your local machine, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/twitter-clone.git`
+1. Clone this repository: `git clone https://github.com/Mahfoudh-Aggoun/Twitter-UI-clone-jetpack-compose-git`
 2. Open the project in Android Studio or your preferred Android IDE.
 3. Build and run the project on an Android emulator or a physical device.
 
